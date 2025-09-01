@@ -1,3 +1,5 @@
+
+
 ## 3. Diagramas de proceso
 
 A continuación se describen los principales procesos del sistema **GERS Lobby**, con su respectiva lógica y puntos de integración con la base de datos y el middleware.
@@ -28,7 +30,7 @@ El usuario accede al sistema proporcionando sus credenciales. El `EndpointAuth.p
 
 **Diagrama:**  
 
-![[Captura de pantalla 2025-09-01 101544 1.png]]
+![[Captura de pantalla 2025-09-01 140616.png]]
 
 ---
 
@@ -58,7 +60,8 @@ Los usuarios (administradores o registrados) pueden realizar reservas de salas o
 
 **Diagrama:**  
 
-![[Captura de pantalla 2025-09-01 104339.png]]
+![[Captura de pantalla 2025-09-01 141634.png]]
+
 
 ---
 
