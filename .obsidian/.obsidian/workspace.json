@@ -1,56 +1,39 @@
 {
   "main": {
-    "id": "7ea95fd4baf4e205",
+    "id": "d5dfb26fad5f0033",
     "type": "split",
     "children": [
       {
-        "id": "e5f983bf20078c17",
+        "id": "e343665603ce3b32",
         "type": "tabs",
         "children": [
           {
-            "id": "ff8a1ef3fba783f9",
+            "id": "19b5defbe6986a6e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "Bienvenido.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.9.12"
               },
-              "icon": "lucide-file",
-              "title": "Bienvenido"
-            }
-          },
-          {
-            "id": "a6e2d6786a4b32ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sin títuloSin título.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sin títuloSin título"
+              "icon": "lucide-book-up",
+              "title": "Registro de cambios 1.9.12"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "104fb57f46213ce0",
+    "id": "e453b546894c25b0",
     "type": "split",
     "children": [
       {
-        "id": "746c316b51a87073",
+        "id": "5bcf23e9660cfea4",
         "type": "tabs",
         "children": [
           {
-            "id": "605d7cafff0a5ff6",
+            "id": "477c1854a07a7d78",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -63,7 +46,7 @@
             }
           },
           {
-            "id": "e747a92cbff3d81e",
+            "id": "5441c7cb1c588ba1",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -80,7 +63,7 @@
             }
           },
           {
-            "id": "9f3d29cf407530d4",
+            "id": "5c61fc0724525bf6",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -93,23 +76,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "67813e25d6272042",
+    "id": "9c87ee81fd03d4ce",
     "type": "split",
     "children": [
       {
-        "id": "2cc3482ce25e8946",
+        "id": "51d1ec6686f2c0c7",
         "type": "tabs",
         "children": [
           {
-            "id": "2d9819ff5799d48f",
+            "id": "570b41dc13fb81ec",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bienvenido.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,25 +101,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Bienvenido"
+              "title": "Enlaces entrantes"
             }
           },
           {
-            "id": "bb7ad6fad11c4cb5",
+            "id": "3e470f22efa82649",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bienvenido.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Bienvenido"
+              "title": "Enlaces salientes"
             }
           },
           {
-            "id": "3f48968ad4c83519",
+            "id": "5aefe27a81eb5ddd",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -152,18 +133,17 @@
             }
           },
           {
-            "id": "1c0abcd745e692d0",
+            "id": "77332b217c0bda4e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bienvenido.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Bienvenido"
+              "title": "Esquema"
             }
           }
         ]
@@ -175,23 +155,15 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Crear nueva base": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false
+      "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a6e2d6786a4b32ab",
-  "lastOpenFiles": [
-    "Captura de pantalla 2025-09-01 112506.png",
-    "Sin títuloSin título.md",
-    "Captura de pantalla 2025-09-01 101544.png",
-    "Captura de pantalla 2025-09-01 101544 1.png",
-    "Captura de pantalla 2025-09-01 104339.png",
-    "Bienvenido.md",
-    "Arquitectura del sistema.md"
-  ]
+  "active": "19b5defbe6986a6e",
+  "lastOpenFiles": []
 }
