@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a6e2d6786a4b32ab",
+            "id": "3fe6bb70e1987e4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,20 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "Diagramas de procesos"
-            }
-          },
-          {
-            "id": "e26f1c57a4cea595",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Librerias.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Librerias"
             }
           }
         ]
@@ -67,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#audienceContainer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -183,17 +169,22 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "a6e2d6786a4b32ab",
+  "active": "3fe6bb70e1987e4f",
   "lastOpenFiles": [
-    "Captura de pantalla 2025-09-01 141634.png",
-    "Captura de pantalla 2025-09-01 140616.png",
     "Librerias.md",
     "Diagramas de procesos.md",
-    "Captura de pantalla 2025-09-01 112506.png",
-    "Captura de pantalla 2025-09-01 101544.png",
-    "Captura de pantalla 2025-09-01 101544 1.png",
-    "Captura de pantalla 2025-09-01 104339.png",
+    "imagenes",
+    "imagenes/Captura de pantalla 2025-09-01 141634.png",
+    "Diagramas de procesos 1.md",
+    "imagenes/Captura de pantalla 2025-09-01 104339.png",
+    "imagenes/Captura de pantalla 2025-09-01 112506.png",
+    "imagenes/Captura de pantalla 2025-09-01 140616.png",
+    "Caso de uso/Flujo de reserva.md",
+    "imagenes/Captura de pantalla 2025-09-01 101544.png",
+    "imagenes/Captura de pantalla 2025-09-01 101544 1.png",
+    "Arquitectura del sistema.md",
     "Bienvenido.md",
-    "Arquitectura del sistema.md"
+    "Caso de uso",
+    "flujo de uso.md"
   ]
 }

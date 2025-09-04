@@ -1,5 +1,6 @@
 
 
+
 ## 3. Diagramas de proceso
 
 A continuación se describen los principales procesos del sistema **GERS Lobby**, con su respectiva lógica y puntos de integración con la base de datos y el middleware.
