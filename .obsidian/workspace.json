@@ -169,13 +169,14 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "605d7cafff0a5ff6",
+  "active": "3fe6bb70e1987e4f",
   "lastOpenFiles": [
+    "Diagramas de procesos.md",
+    "Arquitectura del sistema.md",
+    "Bienvenido.md",
+    "Librerias.md",
     "Caso de uso/Flujo de reserva.md",
     "Caso de uso",
-    "Arquitectura del sistema.md",
-    "Diagramas de procesos.md",
-    "Bienvenido.md",
     "imagenes/Captura de pantalla 2025-09-01 141634.png",
     "imagenes/Captura de pantalla 2025-09-01 140616.png",
     "imagenes/Captura de pantalla 2025-09-01 112506.png",
@@ -183,7 +184,6 @@
     "imagenes/Captura de pantalla 2025-09-01 101544.png",
     "imagenes/Captura de pantalla 2025-09-01 101544 1.png",
     "imagenes",
-    "Librerias.md",
     "Diagramas de procesos 1.md",
     "flujo de uso.md"
   ]
