@@ -169,8 +169,11 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "3fe6bb70e1987e4f",
+  "active": "605d7cafff0a5ff6",
   "lastOpenFiles": [
+    "Caso de uso/Flujo de reserva.md",
+    "Caso de uso",
+    "Arquitectura del sistema.md",
     "Diagramas de procesos.md",
     "Bienvenido.md",
     "imagenes/Captura de pantalla 2025-09-01 141634.png",
@@ -182,9 +185,6 @@
     "imagenes",
     "Librerias.md",
     "Diagramas de procesos 1.md",
-    "Caso de uso/Flujo de reserva.md",
-    "Arquitectura del sistema.md",
-    "Caso de uso",
     "flujo de uso.md"
   ]
 }
